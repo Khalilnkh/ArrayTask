@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Yeni qovluq (13)\ArrayTask\bin\Debug\netcoreapp3.1\ArrayTask.exe
+C:\Users\User\Desktop\Yeni qovluq (13)\ArrayTask\bin\Debug\netcoreapp3.1\ArrayTask.deps.json
+C:\Users\User\Desktop\Yeni qovluq (13)\ArrayTask\bin\Debug\netcoreapp3.1\ArrayTask.runtimeconfig.json
+C:\Users\User\Desktop\Yeni qovluq (13)\ArrayTask\bin\Debug\netcoreapp3.1\ArrayTask.runtimeconfig.dev.json
+C:\Users\User\Desktop\Yeni qovluq (13)\ArrayTask\bin\Debug\netcoreapp3.1\ArrayTask.dll
+C:\Users\User\Desktop\Yeni qovluq (13)\ArrayTask\bin\Debug\netcoreapp3.1\ArrayTask.pdb
+C:\Users\User\Desktop\Yeni qovluq (13)\ArrayTask\obj\Debug\netcoreapp3.1\ArrayTask.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Yeni qovluq (13)\ArrayTask\obj\Debug\netcoreapp3.1\ArrayTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Yeni qovluq (13)\ArrayTask\obj\Debug\netcoreapp3.1\ArrayTask.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Yeni qovluq (13)\ArrayTask\obj\Debug\netcoreapp3.1\ArrayTask.AssemblyInfo.cs
+C:\Users\User\Desktop\Yeni qovluq (13)\ArrayTask\obj\Debug\netcoreapp3.1\ArrayTask.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Yeni qovluq (13)\ArrayTask\obj\Debug\netcoreapp3.1\ArrayTask.dll
+C:\Users\User\Desktop\Yeni qovluq (13)\ArrayTask\obj\Debug\netcoreapp3.1\ArrayTask.pdb
+C:\Users\User\Desktop\Yeni qovluq (13)\ArrayTask\obj\Debug\netcoreapp3.1\ArrayTask.genruntimeconfig.cache
